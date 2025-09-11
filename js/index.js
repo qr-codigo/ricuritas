@@ -91,7 +91,7 @@ sr.reveal('.imagen8', {
 	}); 
 
 sr.reveal('.menuDigital', {
-		duration: 2000, //tiempo
+		duration: 1500, //tiempo
 		origin: 'top', //origen
 		scale: 0.10,
 		distance: '-0' //distancia
@@ -99,9 +99,9 @@ sr.reveal('.menuDigital', {
 
 	});
 	sr.reveal('.table', {
-	duration: 1500, //tiempo
+	duration: 500, //tiempo
 		origin: 'top', //origen
-		distance: '300px' //distancia
+		distance: '200px' //distancia
 
 
 	});  
