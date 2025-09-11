@@ -100,8 +100,8 @@ sr.reveal('.menuDigital', {
 
 	});
 	sr.reveal('.table', {
-	duration: 2500, //tiempo
-		delay:500,
+	duration: 1800, //tiempo
+		delay:300,
 		origin: 'top', //origen
 		distance: '300px' //distancia
 
