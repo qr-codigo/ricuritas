@@ -92,7 +92,7 @@ sr.reveal('.imagen8', {
 
 sr.reveal('.menuDigital', {
 		duration: 2000, //tiempo
-		delay:800,
+		delay:500,
 		origin: 'top', //origen
 		scale: 0.10,
 		distance: '-0' //distancia
@@ -100,8 +100,8 @@ sr.reveal('.menuDigital', {
 
 	});
 	sr.reveal('.table', {
-	duration: 3000, //tiempo
-		delay:800,
+	duration: 2500, //tiempo
+		delay:500,
 		origin: 'top', //origen
 		distance: '300px' //distancia
 
